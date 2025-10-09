@@ -1,0 +1,42 @@
+# Visual Studio
+
+## C++
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.pch
+*.suo
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+
+## Build output
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+ARM/
+ARM64/
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+
+## CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+## IDE specific
+.vs/
+.vscode/
+
+# Other
+*.log
+*.tmp
+
